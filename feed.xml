@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:C8C5A98A-ADB2-4650-8AEF-CEFD3367AD97</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-06-28T07:07:23-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:8AB25780-B4B8-4896-AFB8-CD19D82B7B89</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">8AB25780-B4B8-4896-AFB8-CD19D82B7B89</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2012-06-28T07:07:23.001-07:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:505521C0-D802-4FBB-8528-AD018E59C8EF</id>
+  <title>The SOCO Group</title>
+  <title xmlns="urn:iweb:">The SOCO Group</title>
+  <in-navbar xmlns="urn:iweb:">505521C0-D802-4FBB-8528-AD018E59C8EF</in-navbar>
+  <link rel="alternate" href="The_SOCO_Group.html"/>
+  <updated>2012-06-28T07:07:23.002-07:00</updated>
+  <content>The SOCO Group</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D077FF9A-06CB-4F26-B5AF-996CCCF25D35</id>
+  <title>The SOCO Institute</title>
+  <title xmlns="urn:iweb:">The SOCO Institute</title>
+  <in-navbar xmlns="urn:iweb:">D077FF9A-06CB-4F26-B5AF-996CCCF25D35</in-navbar>
+  <link rel="alternate" href="The_SOCO_Institute.html"/>
+  <updated>2012-06-28T07:07:23.003-07:00</updated>
+  <content>The SOCO Institute</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FEBF5FFE-424C-4E69-A756-B1C6615BDE1D</id>
+  <title>Wheenk</title>
+  <title xmlns="urn:iweb:">Wheenk</title>
+  <in-navbar xmlns="urn:iweb:">FEBF5FFE-424C-4E69-A756-B1C6615BDE1D</in-navbar>
+  <link rel="alternate" href="Wheenk.html"/>
+  <updated>2012-06-28T07:07:23.004-07:00</updated>
+  <content>Wheenk</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:504507AD-0135-4B1D-99CF-303BAE5285B0</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">504507AD-0135-4B1D-99CF-303BAE5285B0</in-navbar>
+  <link rel="alternate" href="Photos.html"/>
+  <updated>2012-06-28T07:07:23.005-07:00</updated>
+  <content>Photos</content>
+ </entry>
+</feed>

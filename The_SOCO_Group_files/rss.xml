@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>The SOCO Group</title>
+    <link>file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group.html</link>
+    <description>Southern California: From Los Angeles to Las Vegas to Yuma, AZ to San Diego.  
+200 associates
+$1M sales per/day                                                                              www.socogroup.com/                      </description>
+    <item>
+      <title>Fleet of Trucks</title>
+      <link>file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group.html#0</link>
+      <guid isPermaLink="false">2c2c76bf-7923-45b2-85e2-c58c6ccd211d</guid>
+      <enclosure url="file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group_files/Media/securedownload-6/securedownload-6.jpg" length="35083" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group_files/Media/securedownload-6/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group_files/Media/securedownload-6/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Fleet of Trucks&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Bio Fules</title>
+      <link>file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group.html#1</link>
+      <guid isPermaLink="false">f8b20612-4358-4aec-bf03-9f7a4ad4457a</guid>
+      <enclosure url="file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group_files/Media/securedownload-3/securedownload-3.jpg" length="36130" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group_files/Media/securedownload-3/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group_files/Media/securedownload-3/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Bio Fules&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Work in Progress</title>
+      <link>file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group.html#2</link>
+      <guid isPermaLink="false">f2c611b2-bad6-42f7-b572-91b6578a7945</guid>
+      <enclosure url="file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group_files/Media/securedownload/securedownload.jpg" length="38052" type="image/jpeg"/>
+      <iphoto:thumbnail>file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group_files/Media/securedownload/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>file://localhost/Users/scottmcowen/Desktop/Scott_McOwen/The_SOCO_Group_files/Media/securedownload/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Work in Progress&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
