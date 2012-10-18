@@ -37,7 +37,7 @@ curPagePat=/\.#current#.$/;else
 var navDiv=this.div("navbar-list");var navBgDiv=navDiv.parentNode;$(navBgDiv).ensureHasLayoutForIE();while(navDiv.firstChild){navDiv.removeChild(navDiv.firstChild);}
 var depthPrefix=this.preferenceForKey("path-to-root");if(!depthPrefix||depthPrefix=="")
 depthPrefix="./";for(var x=0;x<items.length;x++){var navItem=document.createElement("li");var anchor=document.createElement("a");var title=items[x].title;var pageGUID=items[x].GUID;title=title.replace(/ /g,"\u00a0")+" ";var url=items[x].url;if(!this.runningInApp&&!url.match(/^http:/i))
-url=depthPrefix+url;var inAppCurPage=this.runningInApp&&curPagePat.exec(unescape(new String(url)));if(inAppCurPage)
+url='/'+depthPrefix+url;var inAppCurPage=this.runningInApp&&curPagePat.exec(unescape(new String(url)));if(inAppCurPage)
 {url=url.replace(curPagePat,"");}
 if(pageGUID==currentPageGUID||inAppCurPage){navItem.className='current-page';if(!this.runningInApp&&isCollectionPage!="YES"){url="";}}
 else
