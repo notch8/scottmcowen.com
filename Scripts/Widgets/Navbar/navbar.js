@@ -10,7 +10,7 @@ var NavBar=Class.create(Widget,{widgetIdentifier:"com-apple-iweb-widget-NavBar",
 depthPrefix="./";this.xml_feed=depthPrefix+"?webdav-method=truthget&depth=infinity&ns=iweb&filterby=in-navbar";}
 else
 {this.xml_feed="feed.xml";if(this.sitePath)
-{this.xml_feed=this.sitePath+"/"+this.xml_feed;}}
+{this.xml_feed="/"+this.xml_feed;}}
 this.changedPreferenceForKey("navbar-css");this.regenerate();}},regenerate:function()
 {new Ajax.Request(this.xml_feed,{method:'get',onSuccess:this.populateNavItems.bind(this)});return true;},getStyleElement:function(key)
 {if(!this.styleElement)
